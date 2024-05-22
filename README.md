@@ -10,7 +10,6 @@ The program is a fun demonstration that opens the Rick Astley video using the Wi
 
 - `rickroll.c`: The main source file containing the C code.
 - `README.md`: This documentation file.
-- `LICENSE`: The project license.
 
 ## Requirements
 
